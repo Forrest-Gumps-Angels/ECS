@@ -23,7 +23,7 @@
   </Filters>
   <!-- Attribute filters. It's possible to use asterisks as wildcard symbols.
   <AttributeFilters>
-    <AttributeFilterEntry>...</AttributeFilterEntry>
+    <AttributeFilterEntry>....</AttributeFilterEntry>
     <AttributeFilterEntry>...</AttributeFilterEntry>
   </AttributeFilters>
   -->

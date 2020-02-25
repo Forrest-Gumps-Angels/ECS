@@ -3,6 +3,7 @@ using NSubstitute;
 using NSubstitute.ReceivedExtensions;
 using NUnit.Framework;
 
+// Jenkins test instance: http://ci3.ase.au.dk:8080/job/ECS_Gruppe7/
 
 namespace ECS.Test.Unit
 {
